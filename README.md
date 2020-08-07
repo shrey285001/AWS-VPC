@@ -25,3 +25,7 @@ Also attach the key with the same.
 Note: Wordpress instance has to be part of public subnet so that our client can connect our site. 
 mysql instance has to be part of private  subnet so that outside world can't connect to it.
 Don't forgot to add auto ip assign and auto dns name assignment option to be enabled.
+
+
+NOTE-THIS TASK IS DONE UNDER THE GUIDANCE OF VIMAL DAGA SIR.
+ VIAML DAGA SIR- https://lnkd.in/dJWN8ig
